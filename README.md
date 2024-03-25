@@ -1,4 +1,4 @@
-# Crime-In- India- Capstone  project
+# Crimes -In- India- Capstone  project
 
 # Phase 1
 Data Collection/preparation part.
