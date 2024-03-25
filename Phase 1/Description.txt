@@ -1,0 +1,10 @@
+#Collected below Data from different sources:
+The population of each state.
+
+Literacy Rate in each state
+
+Area of each state
+
+Collect any other data that helps with your analysis. There is no limitation for anything.
+
+Create a new file and keep the above-collected data.
