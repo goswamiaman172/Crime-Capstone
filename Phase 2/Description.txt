@@ -1,3 +1,5 @@
+I uploaded the ZIP file of the Ipynb file as size of the ipynb file was bigger:
+
 2.1 Analysis of Literacy Rate vs Total Crimes.
 
 2.2	 Analysis of the type of crime vs each state vs Literacy rate.
